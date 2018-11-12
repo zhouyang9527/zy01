@@ -1,0 +1,118 @@
+
+h4{
+    color:#265da6;
+}
+body {
+    padding-top: 70px;
+    background-color: #F5F5F5;
+}
+.navbar {
+    background-color: #3169b0 !important;
+}
+.tag_active{
+    background-color: #265da6;
+}
+.collapse a{
+    color: #fff !important;
+}
+.ul_lie {
+    display: -webkit-flex;/* Safari */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.ul_lie li{
+    overflow: hidden;
+    width: 16%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 1.8em;
+}
+.articleType {
+    background: #fff;
+}
+.right {
+    margin-left: 20px;
+    padding-left: 10px;
+    height: 320px;
+    background-color: #fff;
+}
+.person_photo {
+    float: left;
+}
+
+.person {
+    clear: both;
+    margin-top: 15%;
+}
+
+.person_doctor {
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+
+.person_message {
+    margin-left: 80px;
+}
+.person_message small{
+    display: block;
+}
+.article {
+    
+    background-color: #fff;
+    margin-top: 5%;
+}
+
+.article_header{
+    display: -webkit-flex;/* Safari */
+    display: flex;
+    flex-direction: row;
+}
+.article_header a{
+    padding-right: 10px;
+}
+.articleType_dian{
+    color: #000;
+}
+.article_item {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.article_item_right {
+    display: -webkit-flex;/* Safari */
+    display: flex;
+    flex-direction: column;
+}
+.viewNumber {
+    color: #d3d2d2;
+    margin-left: 3px;
+    
+}
+.article_person {
+    display: -webkit-flex;/* Safari */
+    display: flex;
+    flex-direction: row;
+}
+.articleType_link {
+    margin-top: 15px;
+}
+.articleType_link a{
+    padding-top: 1px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 5px;
+    border:1px solid rgb(211, 210, 210);
+    color: rgb(211, 210, 210);
+}
+.page {
+    text-align: center;
+}
+.footer {
+    margin-top: 30px;
+    background: #fff;
+}
+.footer p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}

@@ -1,0 +1,85 @@
+body {
+    padding-top: 70px;
+    background-color: #F5F5F5;
+}
+.navbar {
+    background-color: #3169b0 !important;
+}
+.tag_active{
+    background-color: #265da6;
+}
+
+.collapse a{
+    color: #fff !important;
+}
+.carousel-inner img{
+    width: 494px;
+    height: 320px;
+}
+#hotArticle {
+    width: 90%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 14px;
+}
+
+.week ul li{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.read {
+    margin-right: 10px;
+}
+.read_footer {
+    margin-top: 30px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.person_photo {
+    float: left;
+}
+
+.person {
+    clear: both;
+    margin-top: 15%;
+}
+
+.person_doctor {
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+
+.person_message {
+    margin-top: 80px;
+}
+.person_message small{
+    display: block;
+}
+
+.person_doctor a {
+    text-decoration: none;
+}
+
+.person_doctor a:hover {
+    color: #191970;
+}
+
+#doctor_introduce {
+    background-color: white;
+    height: 320px;
+    padding-left: 15px;
+}
+.footer {
+    margin-top: 30px;
+    background: #fff;
+}
+.footer p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.right1 {
+    margin-left: 10px;
+}
