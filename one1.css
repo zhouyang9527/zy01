@@ -23,7 +23,10 @@ body {
     text-overflow: ellipsis;
     font-size: 14px;
 }
-
+.week ul{
+    list-style: none;
+    font-size: 1.1em;
+}
 .week ul li{
     padding-top: 5px;
     padding-bottom: 5px;
@@ -43,16 +46,16 @@ body {
 
 .person {
     clear: both;
-    margin-top: 15%;
+    margin-top: 15px;
 }
 
 .person_doctor {
     margin-left: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .person_message {
-    margin-top: 80px;
+    margin-top: 20px;
 }
 .person_message small{
     display: block;
